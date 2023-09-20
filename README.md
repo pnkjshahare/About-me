@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Pankaj Shahare
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning Engineering In Information Tech
+- 🌱 I’m currently learning DSA & Compitative Programming
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
